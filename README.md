@@ -1,4 +1,4 @@
-# JusufovaPiramida
+# Light Mix
 3D igra miješanja boja svjetla. Napravljena u Unityu u sklopu predmeta za FER.
 
 
